@@ -9,4 +9,10 @@ Belajar:
 <li>emet untuk struktur thml5</li>
 <li>emet untuk heder+main+footer</li>
 <li>emet untuk header yaitu h1+nav>ul>li*3>a</li>
+<li>emet untuk section*2>h2+p di main</li>
+<li>tag p di dalam footer</li>
+<li>tittle dokumen</li>
+<li>mengisi header</li>
+<li>mengisi main untuk section home
+
 </lo>
